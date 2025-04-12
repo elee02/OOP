@@ -21,18 +21,18 @@ This course teaches object-oriented programming (OOP) techniques to students who
 ## Schedules
 Week | Class Topic 
 ---- | -----------
-1 | Introduction
-2 | Review of IGS1232
-3 | Pointers, Dynamic Memory Allocation
-4 | Basics of C++ classes (I)
-5 | Basics of C++ classes (II)
-6 | Copy constructor
-7 | Friend and static
-8 | Midterm Exam
-9 | Inheritance
-10 | Virtual
-11 | Operator Overloading (I)
-12 | Operator Overloading (II)
-13 | Template
-14 | Exceptions
-15 | Final Exam
+[1](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week1) | Introduction
+[2](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week2) | Pointers
+[3](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week3) | Dynamic Memory Allocation
+[4](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week4) | Reference
+[5](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week5) | Basics of C++ classes (I)
+[6](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week6) | Basics of C++ classes (II)
+[7](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week7) | Copy constructor
+[8](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week8) | Midterm Exam
+[9](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week9) | Friend && Static
+[10](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week10) | Inheritance
+[11](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week11) | Virtual Fuctions
+[12](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week12) | Virtual Constructors && Destructors
+[13](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week13) | Operator Overloading (I)
+[14](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week14) | Operator Overloading (II)
+[15](https://github.com/dilshod-obidov/OOP/blob/main/WeeklySummary/Week15) | Final Exam
